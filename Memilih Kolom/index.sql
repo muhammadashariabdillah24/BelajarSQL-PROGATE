@@ -1,0 +1,1 @@
+SELECT nama from perusahaan
